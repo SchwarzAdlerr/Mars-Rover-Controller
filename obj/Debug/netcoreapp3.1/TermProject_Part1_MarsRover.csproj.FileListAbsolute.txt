@@ -1,0 +1,39 @@
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.exe
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.deps.json
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.runtimeconfig.json
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.runtimeconfig.dev.json
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.dll
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.pdb
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.csprojAssemblyReference.cache
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.csproj.CoreCompileInputs.cache
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.AssemblyInfoInputs.cache
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.AssemblyInfo.cs
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.dll
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.pdb
+D:\Software\Microsoft VS Community Projects\TermProject_Part1_MarsRover\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.genruntimeconfig.cache
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.exe
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.deps.json
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.runtimeconfig.json
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.runtimeconfig.dev.json
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.dll
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.pdb
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.csprojAssemblyReference.cache
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.csproj.CoreCompileInputs.cache
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.AssemblyInfoInputs.cache
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.AssemblyInfo.cs
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.dll
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.pdb
+D:\Okul\Ders\8. Dönem\OOP\Repos\project1-SchwarzAdlerr\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.genruntimeconfig.cache
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.exe
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.deps.json
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.runtimeconfig.json
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.runtimeconfig.dev.json
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.dll
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\bin\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.pdb
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.csprojAssemblyReference.cache
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.csproj.CoreCompileInputs.cache
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.AssemblyInfoInputs.cache
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.AssemblyInfo.cs
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.dll
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.pdb
+D:\Okul\Ders\8. Semester\BLG 221 - Object Oriented Programming\Repos\Part1\obj\Debug\netcoreapp3.1\TermProject_Part1_MarsRover.genruntimeconfig.cache
